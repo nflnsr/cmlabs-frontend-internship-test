@@ -1,0 +1,17 @@
+{
+    "name": "cmlabs",
+    "short_name": "cmlabs",
+    "description": "cmlabs Test",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#14b8a6",
+    "icons": [
+      {
+        "src": "/icon.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }
+    ]
+  }
+  

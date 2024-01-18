@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+
+User-Agent: Googlebot
+Allow: /
+Sitemap: https://cmlabs-naufal-nasrullah.vercel.app/sitemap.xml
